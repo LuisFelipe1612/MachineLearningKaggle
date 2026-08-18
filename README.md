@@ -1,5 +1,6 @@
 ### Pesquisa feita usando base de dados Kaggle, a base de dados escolhida foi uma sobre Nutrição de alimentos assados ​​ela tem como objetivo saber se você está se alimentando de forma saudável.
 link da base de dados: https://www.kaggle.com/datasets/sandeep1080/baked-food-nutritions-check-are-you-healthy
+
 Minha principal razão da escolha dessa base de dados é devido a problemas com minha propria alimentação. então poderia analizar essa base de dados e entender melhor sobre o assunto.
 
 Nesse sentido, seguimos com a pesquisa feita:
